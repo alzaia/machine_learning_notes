@@ -19,6 +19,9 @@ Collection of notes taken by me after reading various AI/ML/DL documents/books.
 - Link: https://github.com/alzaia/machine_learning_notes/blob/master/DL_coursera_specialization.pdf
 - Based on https://www.coursera.org/learn/deep-neural-network
 
+### 25 Deep learning and machine learning questions & answers
+- Link: https://github.com/alzaia/machine_learning_notes/blob/master/ML_DL_questions_answers_AZ.pdf
+
 
 Please feel free to contact me if you spot any errors in the listed documents.
 
