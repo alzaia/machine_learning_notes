@@ -22,6 +22,9 @@ Collection of notes taken by me after reading various AI/ML/DL documents/books.
 ### 25 Deep learning and machine learning questions & answers
 - Link: https://github.com/alzaia/machine_learning_notes/blob/master/ML_DL_questions_answers_AZ.pdf
 
+### AI for medicine notes (based on the 'AI for Medicine' Coursera specialization)
+https://github.com/alzaia/machine_learning_notes/blob/master/AI_for_Medicine_CheatSheet_AZ.pdf
+
 
 Please feel free to contact me if you spot any errors in the listed documents.
 
