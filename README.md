@@ -25,6 +25,11 @@ Collection of notes taken by me after reading various AI/ML/DL documents/books.
 ### AI for medicine notes (based on the 'AI for Medicine' Coursera specialization)
 https://github.com/alzaia/machine_learning_notes/blob/master/AI_for_Medicine_CheatSheet_AZ.pdf
 
+### ML notes from the Stanford Coursera course (Andrew Ng)
+- Weeks 1-4: https://github.com/alzaia/machine_learning_notes/blob/master/ML_Stanford_weeks_1-4.pdf
+- Weeks 5-6: https://github.com/alzaia/machine_learning_notes/blob/master/ML_Stanford_weeks_5-6.pdf
+- Weeks 7-10: https://github.com/alzaia/machine_learning_notes/blob/master/ML_Stanford_weeks_7-10.pdf
+
 
 Please feel free to contact me if you spot any errors in the listed documents.
 
