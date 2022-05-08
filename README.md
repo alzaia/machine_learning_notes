@@ -30,6 +30,9 @@ https://github.com/alzaia/machine_learning_notes/blob/master/AI_for_Medicine_Che
 - Weeks 5-6: https://github.com/alzaia/machine_learning_notes/blob/master/ML_Stanford_weeks_5-6.pdf
 - Weeks 7-10: https://github.com/alzaia/machine_learning_notes/blob/master/ML_Stanford_weeks_7-10.pdf
 
+### Useful links on Deep Learning Resources
+- Most important DL papers between 2012-2016: https://project-awesome.org/terryum/awesome-deep-learning-papers
+- 10 Must-read DL papers: https://blog.crossminds.ai/post/must-read-ai-papers-neural-networks-computer-vision-deep-learning-nlp-machine-learning
 
 Please feel free to contact me if you spot any errors in the listed documents.
 
